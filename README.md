@@ -1,3 +1,6 @@
+## SOBRE
+Resumo: O Projeto Bolsa Juruá, visa o desenvolvimento de um website para cadastro e controle dos estudantes que são contemplados com o benefício e que residem fora do município de acordo com a lei em vigor.
+
 # Mapa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
